@@ -1,1 +1,1 @@
-# App for averyone android users
+# App for everyone android users
